@@ -8,7 +8,7 @@ permalink: /
  
 ・キャラクター: カービィ  
 
-![image](GHPages＿WebSite/assets/images/icons/download.png)
+![image](/GHPages＿WebSite/assets/images/icons/download.png)
 
 ・Youtube: Quizknock
 
