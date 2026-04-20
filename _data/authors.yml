@@ -1,7 +1,7 @@
 default:
-  name: "KITHUB MEMBER"
+  name: "道下　晴空"
   avatar: "/assets/images/icons/default.png"
-  bio: "KITHUBで行われた勉強会の参加者です。"
+  bio: "KITHUBで行われた体験会の参加者です。"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
