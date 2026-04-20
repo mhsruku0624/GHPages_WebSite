@@ -6,18 +6,20 @@ permalink: /
 # 名前: 道下晴空
 ## 私の好きなこと
  
-・キャラクター: カービィ
-![image](GHPages＿WebSite/assets/images/icons/download.png)
+・キャラクター: カービィ  
+
+-![image](GHPages＿WebSite/assets/images/icons/download.png)
 
 ・Youtube: Quizknock
 
 ・ゲーム: みんはや
 
-・近大通りのラーメン屋に詳しいです
 
 ・趣味: クイズ
 
-得意ジャンル　国名
+　得意ジャンル  
+  - 国名
+  - 近代文学史
 
 #### 競プロを頑張りたい
 
