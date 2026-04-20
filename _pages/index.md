@@ -6,7 +6,7 @@ permalink: /
 # 名前: 道下晴空
 ## 私の好きなこと
  
-・キャラクター: カービィ  
+・キャラクター: カービィ
 
 ![image](/GHPages_WebSite/assets/images/download.png)
 
