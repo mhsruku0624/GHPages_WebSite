@@ -7,11 +7,13 @@ permalink: /
 ## 私の好きなこと
  
 ・キャラクター: カービィ
-![image]()
+![image](GHPages＿WebSite/assets/images/icons/download.png)
 
 ・Youtube: Quizknock
 
 ・ゲーム: みんはや
+
+・近大通りのラーメン屋に詳しいです
 
 ・趣味: クイズ
 
