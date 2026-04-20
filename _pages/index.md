@@ -3,11 +3,17 @@ title: "ここにページのタイトル"
 author: default
 permalink: /
 ---
+## 私の好きなこと
 
+・キャラクター: カービィ
 
+・Youtube: Quizknock
 
+・ゲーム: みんはや
 
+#### 競プロを頑張りたい
 
+・PythonとJavaを勉強中
 
 ---
 
